@@ -1,0 +1,17 @@
+{
+  "name": "numberguessinggame",
+  "version": "1.0.0",
+  "description": "guess a number within a range",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Faith Osagioduwa",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "node-emoji": "^1.11.0",
+    "node-fetch": "^3.2.6"
+  }
+}
